@@ -35,6 +35,7 @@ const Carol42 = {
     }
 }
 ```
+- Interested in Competitive Coding, Web Dev and Cloud Computing
 
 ## 📊 Github stats
 
@@ -99,10 +100,15 @@ const Carol42 = {
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 </p>
 
+## Technologies
+### Kecerdasan Buatan (AI)/ Pembelajaran Mesin (ML) :
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 
-<table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:English: Japanese</a></td></tr>
-</table>1
+## Sistem Operasi (Operating Systems) :
+![Kali linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
