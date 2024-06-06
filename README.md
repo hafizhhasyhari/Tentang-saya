@@ -98,4 +98,10 @@ const Carol42 = {
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 </p>
 
+
+<table align="right">
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:English: Japanese</a></td></tr>
+</table>1
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
