@@ -1,5 +1,11 @@
 # Tentang-saya
-About me
+
+<h1><b> Hi there, I'm Hafizh H Asyhari<!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></b>
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px"></h1>
+
+<img src="https://i.pinimg.com/736x/3f/13/57/3f1357daa60daa686dfef453dc31271b.jpg" width="290px" height="250px" align="right" >
+
+<p align="left"> <a href="https://twitter.com/AsyharHafizh" target="blank"><img src="https://img.shields.io/twitter/follow/AsyharHafizh?logo=twitter&style=for-the-badge" alt="AsyharHafizh" /></a> </p>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=hafizhhasyhari&count_private=true&theme=dracula&hide_border=true" alt = hafizhhasyhari Contribution" width = 400 >
