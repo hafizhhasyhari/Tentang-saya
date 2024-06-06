@@ -13,13 +13,13 @@ About me
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizhhasyhari&label=Profile%20views&color=0e75b6&style=flat" alt="hafizhhasyhari" /> </p>   <p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-</p>
+
 <a href="https://github.com/KrishnaKumar2002?tab=followers"><img src="https://img.shields.io/github/followers/KrishnaKumar2002?label=Followers&style=social" alt="GitHub Badge"></a>
 
 // Logo Mascot Git Animasi Bergerak //
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
