@@ -36,6 +36,7 @@ const Carol42 = {
 }
 ```
 
+## 📊 Github stats
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=hafizhhasyhari&count_private=true&theme=dracula&hide_border=true" alt = hafizhhasyhari Contribution" width = 400 >
