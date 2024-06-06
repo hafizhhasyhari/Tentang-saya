@@ -56,6 +56,8 @@
 
 
 ## ❤ Views and Followers
+<a href="https://leetcode.com/u/hafizhhasyhari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hafizhhasyhari/" height="30" width="40" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizhhasyhari&label=Profile%20views&color=0e75b6&style=flat" alt="hafizhhasyhari" /> </p>   <p align="left">
 
 <a href="https://github.com/hafizhhasyhari?tab=followers"><img src="https://img.shields.io/github/followers/hafizhhasyhari?label=Followers&style=social" alt="GitHub Badge"></a>
