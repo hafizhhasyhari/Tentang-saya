@@ -51,41 +51,6 @@ const Carol42 = {
 </p>
 
 
-<br>
-<a href="https://github.com/hafizhhasyhari">
-  <img align="top" width="50%" src="./.metrics/header.svg" />
-</a>
-<a href="https://github.com/hafizhhasyhari">
-    <img align="top" width="49%" src="./.metrics/reactions.svg" />
-</a> 
-<br/>
-<a href="https://github.com/hafizhhasyhari">
-  <img align="top" width="50%" src="./.metrics/repositories.svg" />
-</a>
-<a href="https://github.com/hafizhhasyhari">
-  <img align="top" width="49%" src="./.metrics/acti_comm.svg" />
-</a>
-
-<a href="https://github.com/hafizhhasyhari">
-  <img align="top" width="50%" src="./.metrics/iso_calender.svg" />
-</a>
-
-<a href="https://github.com/hafizhhasyhari">
-    <img align="top" width="49%" src="./.metrics/issue_pr_lang.svg" />
-</a>
-
-<a href="https://github.com/hafizhhasyhari">
-    <img align="top" width="50%" src="./.metrics/sponsors.svg" />
-</a>
-
-<a href="https://github.com/hafizhhasyhari">
-    <img align="top" width="49%" src="./.metrics/achievements.svg" />
-</a>
-<a href="https://github.com/hafizhhasyhari?id=flags" align="center" width="100%">
-    <img src="https://s11.flagcounter.com/countxl/h7A8/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="" border="0">
-</a>
-
-
 
 ## ❤ Views and Followers
 <a href="https://leetcode.com/u/hafizhhasyhari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hafizhhasyhari/" height="30" width="40" /></a>
