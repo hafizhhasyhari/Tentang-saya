@@ -21,7 +21,7 @@
 ```js
 console.log("Hello world!");
 const Carol42 = {
-    pronouns: "she" | "her",
+    pronouns: "he" | "her",
     country: "indonesia",
     spokenLanguages: ["Japanese", "Mandarinese", "Korean"],
     newYearGoals: ["sharpen my skills in programming", "learning Germany", "get a job"],
@@ -29,7 +29,7 @@ const Carol42 = {
         rockBand: "Blue Floyd",
         metalBand: "Blind Guardian",
         movies: "The Matrix",
-        anime: "Attack on Titan",
+        anime: "Guilty Crown",
         books: "The Hitchhiker's Guide to the Galaxy",
         tvSeries: ["Black Mirror", "Sherlock"]
     }
