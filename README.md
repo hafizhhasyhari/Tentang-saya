@@ -3,7 +3,7 @@
 <div align="center" ><img alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hafizh;Undergraduate+Student;Indonesian+Front-end+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Hafizh;Undergraduate+Student;Indonesian+Animator;3D+Game+Developer+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
 
@@ -14,6 +14,28 @@
 <img src="https://i.pinimg.com/736x/3f/13/57/3f1357daa60daa686dfef453dc31271b.jpg" width="290px" height="250px" align="right" >
 
 <p align="left"> <a href="https://twitter.com/AsyharHafizh" target="blank"><img src="https://img.shields.io/twitter/follow/AsyharHafizh?logo=twitter&style=for-the-badge" alt="AsyharHafizh" /></a> </p>
+
+
+<h2>🇮🇩: About me</h2>
+
+```js
+console.log("Hello world!");
+const Carol42 = {
+    pronouns: "she" | "her",
+    country: "indonesia",
+    spokenLanguages: ["Japanese", "Mandarinese", "Korean"],
+    newYearGoals: ["sharpen my skills in programming", "learning Germany", "get a job"],
+    myFavorites: {
+        rockBand: "Blue Floyd",
+        metalBand: "Blind Guardian",
+        movies: "The Matrix",
+        anime: "Attack on Titan",
+        books: "The Hitchhiker's Guide to the Galaxy",
+        tvSeries: ["Black Mirror", "Sherlock"]
+    }
+}
+```
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=hafizhhasyhari&count_private=true&theme=dracula&hide_border=true" alt = hafizhhasyhari Contribution" width = 400 >
